@@ -1,0 +1,10 @@
+/Users/bryseroeben/Dropbox/Dojo/C#/Fundamentals/bin/Debug/netcoreapp2.0/Fundamentals.deps.json
+/Users/bryseroeben/Dropbox/Dojo/C#/Fundamentals/bin/Debug/netcoreapp2.0/Fundamentals.runtimeconfig.json
+/Users/bryseroeben/Dropbox/Dojo/C#/Fundamentals/bin/Debug/netcoreapp2.0/Fundamentals.runtimeconfig.dev.json
+/Users/bryseroeben/Dropbox/Dojo/C#/Fundamentals/bin/Debug/netcoreapp2.0/Fundamentals.dll
+/Users/bryseroeben/Dropbox/Dojo/C#/Fundamentals/bin/Debug/netcoreapp2.0/Fundamentals.pdb
+/Users/bryseroeben/Dropbox/Dojo/C#/Fundamentals/obj/Debug/netcoreapp2.0/Fundamentals.csproj.CoreCompileInputs.cache
+/Users/bryseroeben/Dropbox/Dojo/C#/Fundamentals/obj/Debug/netcoreapp2.0/Fundamentals.AssemblyInfoInputs.cache
+/Users/bryseroeben/Dropbox/Dojo/C#/Fundamentals/obj/Debug/netcoreapp2.0/Fundamentals.AssemblyInfo.cs
+/Users/bryseroeben/Dropbox/Dojo/C#/Fundamentals/obj/Debug/netcoreapp2.0/Fundamentals.dll
+/Users/bryseroeben/Dropbox/Dojo/C#/Fundamentals/obj/Debug/netcoreapp2.0/Fundamentals.pdb
